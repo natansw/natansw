@@ -21,7 +21,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, indo para o terceiro semest
 
 ## Contato
  - E-mail: assaosawa@gmail.com
- - LinkedIn: [linkedin.com/in/natan-sawaguchi/](https://www.linkedin.com/in/natan-sawaguchi/)https://www.linkedin.com/in/natan-sawaguchi/
-
+ - LinkedIn: [/in/natansawaguchi](linkedin.com/in/natan-sawaguchi/)
 
 
