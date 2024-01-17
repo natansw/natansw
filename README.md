@@ -2,8 +2,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas, indo para o terceiro semestre, busco ingressar no mercado de trabalho como estagiário.
 <br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-sawaguchi/)<br>
-[![GMAIL]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](assaosawa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-sawaguchi/)
 
 ![Natan Sawaguchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=natansw&show_icons=true&theme=tokyonight)
 
