@@ -6,7 +6,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, indo para o terceiro semest
 
 ![Natan Sawaguchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=natansw&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natansw)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natansw&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que utilizo
 
@@ -18,6 +18,10 @@ Estudante de Análise e Desenvolvimento de Sistemas, indo para o terceiro semest
   <img align="center" alt="javascript" src=	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white />
 
 </div>
+
+## Contato
+ - E-mail: assaosawa@gmail.com
+ - LinkedIn: linkedin.com/in/natan-sawaguchi/
 
 
 
