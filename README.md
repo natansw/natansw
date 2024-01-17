@@ -1,4 +1,6 @@
 ### Olá! Eu sou o Natan Sawaguchi!
+<br>
+Estudante de Análise e Desenvolvimento de Sistemas, indo para o terceiro semestre, busco ingressar no mercado de trabalho como estagiário.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-sawaguchi/)
 
@@ -17,5 +19,5 @@
 
 </div>
 
-<br>
-Estudante de Análise e Desenvolvimento de Sistemas, indo para o terceiro semestre, busco ingressar no mercado de trabalho como estagiário.
+
+
